@@ -1,16 +1,9 @@
-# habit_tracker
+- 📊 Developed a habit tracker app inspired by GitHub's heatmap design.
 
-A new Flutter project.
+- ✅ Users can mark tasks as complete through checkboxes, resulting in an "ultra green" interface when all tasks are finished, and a "light grey" interface when incomplete.
 
-## Getting Started
+- 🔄 Implemented features for task updating and deletion, offering users enhanced flexibility.
 
-This project is a starting point for a Flutter application.
+- 🚀 Incorporated smooth sliding actions for seamless navigation within the app.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 📚 Gained valuable insights and  from Mitch Koko's YouTube tutorial channel, contributing to the app's development.
